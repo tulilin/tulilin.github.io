@@ -19,6 +19,7 @@ Education
 
 Publications
 ======
+
 Journals
 ------
 ...
