@@ -17,6 +17,7 @@ Education
 ======
 ...
 
+
 Publications
 ======
 
@@ -31,6 +32,7 @@ Conferences
 Patents and Copyrights
 ------
 ...
+
 
 Awards and Honors
 ======
