@@ -64,7 +64,7 @@ Xin Huang, Chun Liu, **Lilin Tu**
 **2018.10** Yugang and Songxiao Scholarship | 于刚·宋晓奖学金  
 **2018.10** The First Prize of Excellent Student Scholarship, Wuhan University | 武汉大学优秀学生甲等奖学金  
 **2018.05** The Second Prize, National Undergraduate English Contest | 全国大学生英语竞赛二等奖  
-**2018.02** Finalist, Interdisciplinary Contest in Modeling (ICM), Consortium for Mathematics and its Applications | 美国大学生数学建模竞赛特等奖提名奖  
+**2018.02** Finalist, Interdisciplinary Contest in Modeling (ICM), Consortium for Mathematics and its Applications  
 **2017.11** The First Prize, National Undergraduate Mathematical Contest | 全国大学生数学竞赛一等奖  
 **2017.10** Zhonghaida Scholarship | 中海达奖学金  
 **2017.10** The First Prize of Excellent Student Scholarship, Wuhan University | 武汉大学优秀学生甲等奖学金  
