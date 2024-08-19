@@ -44,7 +44,7 @@ Zhuohong Li, Fangxiao Lu, Hongyan Zhang, **Lilin Tu**, Jiayi Li, Xin Huang, Cale
 Jiawei Zhou, **Lilin Tu**, Hongjian Chen, Ting Jiang, Jiajia Lin  
 *Geospatial Information (地理空间信息)*, 2022.  
 ## Conferences
-[1] High-resolution land cover change detection using low-resolution labels via a semi-supervised deep learning approach-2021 IEEE data fusion contest track MSD. [[Paper]](https://ieeexplore.ieee.org/document/9690575)  
+[1] High-resolution land cover change detection using low-resolution labels via a semi-supervised deep learning approach-2021 IEEE data fusion contest track MSD. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9555033)  
 **Lilin Tu**, Jiayi Li, Xin Huang  
 *IEEE International Geoscience and Remote Sensing Symposium*, 2021.  
 ## Patents and Copyrights
