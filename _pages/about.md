@@ -30,7 +30,17 @@ Publications
 
 Journals
 ------
-...
+<div class='paper-box'><div class='paper-box-image'><img src='images/S2HM2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+S2HM2: A Spectral–Spatial Hierarchical Masked Modeling Framework for Self-Supervised Feature Learning and Classification of Large-Scale Hyperspectral Images
+
+**Lilin Tu**, Jiayi Li, Xin Huang, Jianya Gong, Xing Xie, and Leiguang Wang
+
+*IEEE Transactions on Geoscience and Remote Sensing*, 2024. (**SCI Q1, IF=7.5**)
+
+[[Paper]](https://ieeexplore.ieee.org/document/10508226)[[Code]](https://github.com/tulilin/S2HM2)
+</div>
+</div>
 
 Conferences
 ------
