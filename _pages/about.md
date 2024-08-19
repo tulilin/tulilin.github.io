@@ -54,6 +54,19 @@ Xin Huang, **Lilin Tu**
 [1] Software for automatic built-up area extraction based on high-resolution remote sensing images, version 1.0 (高分辨率遥感影像居民区自动提取软件V1.0), 2020.  
 Xin Huang, Chun Liu, **Lilin Tu**  
 ## Awards and Honors
-...
+**2022.10** The Second Prize of Excellent Academic Scholarship, Wuhan University | 武汉大学优秀学业奖学金二等奖  
+**2021.07** Second Place, 2021 IEEE GRSS Data Fusion Contest—Track MSD: Multitemporal Semantic Change Detection  
+**2020.05** Excellent Graduate, Wuhan University | 武汉大学优秀毕业生  
+**2019.10** National Scholarship | 国家奖学金  
+**2019.10** The First Prize of Excellent Student Scholarship, Wuhan University | 武汉大学优秀学生甲等奖学金  
+**2018.12** The Second Prize, National Undergraduate GIS Application Skills Contest | 全国大学生GIS应用技能大赛二等奖  
+**2018.11** The Second Prize, National Undergraduate Mathematical Contest | 全国大学生数学竞赛二等奖  
+**2018.10** Yugang and Songxiao Scholarship | 于刚·宋晓奖学金  
+**2018.10** The First Prize of Excellent Student Scholarship, Wuhan University | 武汉大学优秀学生甲等奖学金  
+**2018.05** The Second Prize, National Undergraduate English Contest | 全国大学生英语竞赛二等奖  
+**2018.02** Finalist, Interdisciplinary Contest in Modeling (ICM), Consortium for Mathematics and its Applications | 美国大学生数学建模竞赛特等奖提名奖  
+**2017.11** The First Prize, National Undergraduate Mathematical Contest | 全国大学生数学竞赛一等奖  
+**2017.10** Zhonghaida Scholarship | 中海达奖学金  
+**2017.10** The First Prize of Excellent Student Scholarship, Wuhan University | 武汉大学优秀学生甲等奖学金  
 
 
