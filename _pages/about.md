@@ -14,9 +14,9 @@ E-mail: **tulilin0312@163.com**;**ygtll@whu.edu.cn**
 
 # Education  
 **2020.09-Present**  
-Pursuing the Ph.D. degree of photogrammetry and remote sensing in School of Remote Sensing and Information Engineering, Wuhan University.  
+Ph.D. candidate of photogrammetry and remote sensing in School of Remote Sensing and Information Engineering, Wuhan University.  
 **2016.09-2020.06**  
-B.S. degree of remote sensing science and technology in School of Remote Sensing and Information Engineering, Wuhan University.
+B.S. of remote sensing science and technology in School of Remote Sensing and Information Engineering, Wuhan University.
 
 # Publications  
 ## Journals  
@@ -40,15 +40,19 @@ Jiayi Li, Xin Huang, **Lilin Tu**, Tao Zhang, Leiguang Wang
 Zhuohong Li, Fangxiao Lu, Hongyan Zhang, **Lilin Tu**, Jiayi Li, Xin Huang, Caleb Robinson, Nikolay Malkin, Nebojsa Jojic, Pedram Ghamisi, Ronny Hänsch, Naoto Yokoya  
 *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2022. (**SCI Q3, IF=4.7**)  
 
-[1] Deep Learning-based Rice Paddy Extraction by Fusing Spatial and Temporal Remote Sensing Information. [[Paper]](https://kns.cnki.net/kcms2/article/abstract?v=v-1aSqfKcSVsgTA_wuWxEeYGnv4oqueN9CyyNGRK_gzGwnGoCD5kpIZY1PQiUOeaBIpMqrl6LvYjqbSpBDZlMSPQrEbJDuyj0_MBe146kMIoqaUHS0rm_I3Gc3O8nk649KEe0XWdM0aZHD-tfFxsAlVE5heffGg0CsF9ezDUmcJZGUe09FbeAQc9TIS2XOZtY1FnamZ9AX68XEA8MKmQRdzsdw1JmoUG&uniplatform=NZKPT&language=CHS)  
+[1] Deep Learning-based Rice Paddy Extraction by Fusing Spatial and Temporal Remote Sensing Information. (融合空间和时序遥感信息的深度学习水稻提取) [[Paper]](https://kns.cnki.net/kcms2/article/abstract?v=v-1aSqfKcSVsgTA_wuWxEeYGnv4oqueN9CyyNGRK_gzGwnGoCD5kpIZY1PQiUOeaBIpMqrl6LvYjqbSpBDZlMSPQrEbJDuyj0_MBe146kMIoqaUHS0rm_I3Gc3O8nk649KEe0XWdM0aZHD-tfFxsAlVE5heffGg0CsF9ezDUmcJZGUe09FbeAQc9TIS2XOZtY1FnamZ9AX68XEA8MKmQRdzsdw1JmoUG&uniplatform=NZKPT&language=CHS)  
 Jiawei Zhou, **Lilin Tu**, Hongjian Chen, Ting Jiang, Jiajia Lin  
-*Geospatial Information*, 2022.  
+*Geospatial Information (地理空间信息)*, 2022.  
 ## Conferences
 [1] High-resolution land cover change detection using low-resolution labels via a semi-supervised deep learning approach-2021 IEEE data fusion contest track MSD. [[Paper]](https://ieeexplore.ieee.org/document/9690575)  
 **Lilin Tu**, Jiayi Li, Xin Huang  
 *IEEE International Geoscience and Remote Sensing Symposium*, 2021.  
 ## Patents and Copyrights
-...  
+[2] A rice paddy extraction method based on rice index using multi-temporal remote sensing images (一种基于水稻指数的多时相遥感影像水稻提取方法), 2022.  
+Xin Huang, **Lilin Tu**
+
+[1] Software for automatic built-up area extraction based on high-resolution remote sensing images, version 1.0 (高分辨率遥感影像居民区自动提取软件V1.0), 2020.  
+Xin Huang, Chun Liu, **Lilin Tu**  
 ## Awards and Honors
 ...
 
