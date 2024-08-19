@@ -20,7 +20,7 @@
   @include breakpoint($large) {
     @include span(10 of 12 last);
     @include prefix(0.5 of 12);
-    @include suffix(2 of 12);
+    @include suffix(1 of 12);
   }
 
   .page__inner-wrap {
@@ -32,14 +32,7 @@
       @include full();
     }
   }
-
-  .page {
-    width: 83.05085%;
-    float: right;
-    margin-right: 0;
-    padding-left: 4.23729%;
-    padding-right: 4.23729%;
-  }
+   
 }
 
 .page__title {
