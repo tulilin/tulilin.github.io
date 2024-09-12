@@ -53,7 +53,8 @@ Xin Huang, **Lilin Tu**
 
 [1] Software for automatic built-up area extraction based on high-resolution remote sensing images, version 1.0 (高分辨率遥感影像居民区自动提取软件V1.0), 2020.  
 Xin Huang, Chun Liu, **Lilin Tu**  
-## Awards and Honors
+
+# Awards and Honors
 **2022.10** The Second Prize of Excellent Academic Scholarship, Wuhan University | 武汉大学优秀学业奖学金二等奖  
 **2021.07** Second Place, 2021 IEEE GRSS Data Fusion Contest—Track MSD: Multitemporal Semantic Change Detection  
 **2020.05** Excellent Graduate, Wuhan University | 武汉大学优秀毕业生  
