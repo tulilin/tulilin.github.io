@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 # About me  
-I am a fourth-year Ph.D. Student in School of Remote Sensing and Information Engineering, Wuhan University.  
+I am a fifth-year Ph.D. Student in School of Remote Sensing and Information Engineering, Wuhan University.  
 My research interests include hyperspectral image interpretation, self-supervised learning, semantic segmentation, and change detection.  
 E-mail: **tulilin0312@163.com**;**ygtll@whu.edu.cn**
 
@@ -48,6 +48,9 @@ Jiawei Zhou, **Lilin Tu**, Hongjian Chen, Ting Jiang, Jiajia Lin
 **Lilin Tu**, Jiayi Li, Xin Huang  
 *IEEE International Geoscience and Remote Sensing Symposium*, 2021.  
 ## Patents and Copyrights
+[3] Self-supervised learning of deep network models and land use change detection, method and device (深度网络模型自监督训练, 土地利用变化检测方法及装置), 2025, under substantive examination (实质审查阶段).  
+Ke Nie, Guanrui Nie, **Lilin Tu**, Jiayi Li, Xin Huang
+
 [2] A rice paddy extraction method based on rice index using multi-temporal remote sensing images (一种基于水稻指数的多时相遥感影像水稻提取方法), 2022.  
 Xin Huang, **Lilin Tu**
 
@@ -55,6 +58,9 @@ Xin Huang, **Lilin Tu**
 Xin Huang, Chun Liu, **Lilin Tu**  
 
 # Awards and Honors
+**2024.12** National Scholarship | 国家奖学金  
+**2024.12** The First Prize of Excellent Academic Scholarship, Wuhan University | 武汉大学优秀学业奖学金一等奖  
+**2024.12** Outstanding Graduate Student, Wuhan University | 武汉大学优秀研究生  
 **2022.10** The Second Prize of Excellent Academic Scholarship, Wuhan University | 武汉大学优秀学业奖学金二等奖  
 **2021.07** Second Place, 2021 IEEE GRSS Data Fusion Contest—Track MSD: Multitemporal Semantic Change Detection  
 **2020.05** Excellent Graduate, Wuhan University | 武汉大学优秀毕业生  
