@@ -46,7 +46,7 @@ Jiawei Zhou, **Lilin Tu**, Hongjian Chen, Ting Jiang, Jiajia Lin
 ## Conferences
 [1] High-resolution land cover change detection using low-resolution labels via a semi-supervised deep learning approach-2021 IEEE data fusion contest track MSD. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9555033)  
 **Lilin Tu**, Jiayi Li, Xin Huang  
-*IEEE International Geoscience and Remote Sensing Symposium*, 2021.  
+*IEEE International Geoscience and Remote Sensing Symposium*, 2021. (**EI**)  
 ## Patents and Copyrights
 [3] Self-supervised learning of deep network models and land use change detection, method and device (深度网络模型自监督训练, 土地利用变化检测方法及装置), 2025, under substantive examination (实质审查阶段).  
 Ke Nie, Guanrui Nie, **Lilin Tu**, Jiayi Li, Xin Huang
