@@ -20,12 +20,12 @@ B.S. of remote sensing science and technology in School of Remote Sensing and In
 
 # Publications  
 ## Journals  
-[8] High-resolution local climate zone mapping via deep mixed-scene decomposition of remote sensing imagery. [[Paper]](https://www.sciencedirect.com/science/article/pii/S1569843225006466)
-Jiayi Li, Xinji Tian, Wenrui Wang, **Lilin Tu**, Yang Lu, Jie Jiang, Xin Huang
+[8] High-resolution local climate zone mapping via deep mixed-scene decomposition of remote sensing imagery. [[Paper]](https://www.sciencedirect.com/science/article/pii/S1569843225006466)  
+Jiayi Li, Xinji Tian, Wenrui Wang, **Lilin Tu**, Yang Lu, Jie Jiang, Xin Huang  
 *International Journal of Applied Earth Observations and Geoinformation*, 2025. (**SCI Q1, IF=8.6**)  
 
-[7] Forest Tree Species Classification Based on Deep Ensemble Learning by Fusing High-Resolution, Multitemporal, and Hyperspectral Multisource Remote Sensing Data. [[Paper]](https://ieeexplore.ieee.org/abstract/document/11260461)
-Dengli Yu, **Lilin Tu**, Ziqing Wei, Fuyao Zhu, Chengjun Yu, Denghong Wang, Jiayi Li, Xin Huang
+[7] Forest Tree Species Classification Based on Deep Ensemble Learning by Fusing High-Resolution, Multitemporal, and Hyperspectral Multisource Remote Sensing Data. [[Paper]](https://ieeexplore.ieee.org/abstract/document/11260461)  
+Dengli Yu, **Lilin Tu**, Ziqing Wei, Fuyao Zhu, Chengjun Yu, Denghong Wang, Jiayi Li, Xin Huang  
 *IEEE Geoscience and Remote Sensing Letters*, 2025. (**SCI Q3, IF=4.4**)
 
 [6] S2HM2: A Spectral–Spatial Hierarchical Masked Modeling Framework for Self-Supervised Feature Learning and Classification of Large-Scale Hyperspectral Images. [[Paper]](https://ieeexplore.ieee.org/document/10508226)[[Code]](https://github.com/tulilin/S2HM2)  
