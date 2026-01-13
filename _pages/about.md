@@ -64,6 +64,9 @@ Xin Huang, **Lilin Tu**
 
 [1] Software for automatic built-up area extraction based on high-resolution remote sensing images, version 1.0 (高分辨率遥感影像居民区自动提取软件V1.0), 2020.  
 Xin Huang, Chun Liu, **Lilin Tu**  
+## Reviewer
+[ISPRS Journal of Photogrammetry and Remote Sensing (**ISPRS-J**)](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing)  
+[IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4358825)
 
 # Awards and Honors
 **2024.12** National Scholarship | 国家奖学金  
