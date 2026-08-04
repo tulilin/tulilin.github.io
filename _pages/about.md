@@ -20,6 +20,10 @@ B.S. of remote sensing science and technology in School of Remote Sensing and In
 
 # Publications  
 ## Journals  
+[9] A Multi-Source Time-Series Remote Sensing Data Fusion Network for High-Spatial-Resolution Crop Classification. [[Paper]](https://ieeexplore.ieee.org/abstract/document/11481616)  
+Beibei Yu, Xin Huang, Hengmao Xiang, Jie Yang, **Lilin Tu**, Yujuan Zhang, Yinghua Jiao  
+*IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2026. (**SCI Q2, IF=5.3**)  
+
 [8] High-resolution local climate zone mapping via deep mixed-scene decomposition of remote sensing imagery. [[Paper]](https://www.sciencedirect.com/science/article/pii/S1569843225006466)  
 Jiayi Li, Xinji Tian, Wenrui Wang, **Lilin Tu**, Yang Lu, Jie Jiang, Xin Huang  
 *International Journal of Applied Earth Observations and Geoinformation*, 2025. (**SCI Q1, IF=8.6**)  
@@ -56,7 +60,10 @@ Jiawei Zhou, **Lilin Tu**, Hongjian Chen, Ting Jiang, Jiajia Lin
 **Lilin Tu**, Jiayi Li, Xin Huang  
 *IEEE International Geoscience and Remote Sensing Symposium*, 2021. (**EI**)  
 ## Patents and Copyrights
-[3] Self-supervised learning of deep network models and land use change detection, method and device (深度网络模型自监督训练, 土地利用变化检测方法及装置), 2025, under substantive examination (实质审查阶段).  
+[4] Software for temporal–spatial–spectral–angular feature extraction and deep fusion, version 1.0 (“时-空-谱-角”特征提取与深度融合软件V1.0), 2026.  
+Xin Huang, Beibei Yu, Jiayi Li, **Lilin Tu**  
+
+[3] Self-supervised learning of deep network models and land use change detection, method and device (深度网络模型自监督训练, 土地利用变化检测方法及装置), 2026.  
 Ke Nie, Guanrui Nie, **Lilin Tu**, Jiayi Li, Xin Huang
 
 [2] A rice paddy extraction method based on rice index using multi-temporal remote sensing images (一种基于水稻指数的多时相遥感影像水稻提取方法), 2022.  
