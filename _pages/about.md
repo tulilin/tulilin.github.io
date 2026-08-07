@@ -79,6 +79,7 @@ Xin Huang, Chun Liu, **Lilin Tu**
 **2024.12** National Scholarship | 国家奖学金  
 **2024.12** The First Prize of Excellent Academic Scholarship, Wuhan University | 武汉大学优秀学业奖学金一等奖  
 **2024.12** Outstanding Graduate Student, Wuhan University | 武汉大学优秀研究生  
+**2024.11** The Second Prize of the 1st "Hyperspectral Imaging Cup" Hyperspectral Remote Sensing Data Processing and Application Competition | 第一届"高谱成像杯"高光谱遥感数据处理与应用大赛二等奖  
 **2022.10** The Second Prize of Excellent Academic Scholarship, Wuhan University | 武汉大学优秀学业奖学金二等奖  
 **2021.07** Second Place, 2021 IEEE GRSS Data Fusion Contest—Track MSD: Multitemporal Semantic Change Detection  
 **2020.05** Excellent Graduate, Wuhan University | 武汉大学优秀毕业生  
