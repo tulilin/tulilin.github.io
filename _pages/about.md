@@ -20,6 +20,8 @@ B.S. of remote sensing science and technology in School of Remote Sensing and In
 
 # Publications  
 ## Journals  
+\* Corresponding author  
+
 [10] Toward Accurate, Efficient, and Interpretable Hyperspectral Image Classification: A detachable network with adaptive spectral–spatial scale selection. [[Paper]](https://ieeexplore.ieee.org/document/11698744)  
 **Lilin Tu**, Xin Huang, Jiayi Li, Jianya Gong, Antonio Plaza, Jon Atli Benediktsson  
 *IEEE Geoscience and Remote Sensing Magazine*, 2026. (**SCI Q1 TOP, IF=13.7**)  
@@ -33,7 +35,7 @@ Jiayi Li, Xinji Tian, Wenrui Wang, **Lilin Tu**, Yang Lu, Jie Jiang, Xin Huang
 *International Journal of Applied Earth Observations and Geoinformation*, 2025. (**SCI Q1 TOP, IF=8.2**)  
 
 [7] Forest Tree Species Classification Based on Deep Ensemble Learning by Fusing High-Resolution, Multitemporal, and Hyperspectral Multisource Remote Sensing Data. [[Paper]](https://ieeexplore.ieee.org/abstract/document/11260461)  
-Dengli Yu, **Lilin Tu**, Ziqing Wei, Fuyao Zhu, Chengjun Yu, Denghong Wang, Jiayi Li, Xin Huang  
+Dengli Yu, **Lilin Tu\***, Ziqing Wei, Fuyao Zhu, Chengjun Yu, Denghong Wang, Jiayi Li, Xin Huang\*  
 *IEEE Geoscience and Remote Sensing Letters*, 2025. (**SCI Q3, IF=4.8**)
 
 [6] S2HM2: A Spectral–Spatial Hierarchical Masked Modeling Framework for Self-Supervised Feature Learning and Classification of Large-Scale Hyperspectral Images. [[Paper]](https://ieeexplore.ieee.org/document/10508226)[[Code]](https://github.com/tulilin/S2HM2)  
@@ -57,24 +59,27 @@ Zhuohong Li, Fangxiao Lu, Hongyan Zhang, **Lilin Tu**, Jiayi Li, Xin Huang, Cale
 *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2022. (**SCI Q2 TOP, IF=6.3**)  
 
 [1] Deep Learning-based Rice Paddy Extraction by Fusing Spatial and Temporal Remote Sensing Information. (融合空间和时序遥感信息的深度学习水稻提取) [[Paper]](https://kns.cnki.net/kcms2/article/abstract?v=v-1aSqfKcSVsgTA_wuWxEeYGnv4oqueN9CyyNGRK_gzGwnGoCD5kpIZY1PQiUOeaBIpMqrl6LvYjqbSpBDZlMSPQrEbJDuyj0_MBe146kMIoqaUHS0rm_I3Gc3O8nk649KEe0XWdM0aZHD-tfFxsAlVE5heffGg0CsF9ezDUmcJZGUe09FbeAQc9TIS2XOZtY1FnamZ9AX68XEA8MKmQRdzsdw1JmoUG&uniplatform=NZKPT&language=CHS)  
-Jiawei Zhou, **Lilin Tu**, Hongjian Chen, Ting Jiang, Jiajia Lin  
+Jiawei Zhou, **Lilin Tu\***, Hongjian Chen, Ting Jiang, Jiajia Lin  
 *Geospatial Information (地理空间信息)*, 2022.  
+
 ## Conferences
 [1] High-resolution land cover change detection using low-resolution labels via a semi-supervised deep learning approach-2021 IEEE data fusion contest track MSD. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9555033)  
 **Lilin Tu**, Jiayi Li, Xin Huang  
 *IEEE International Geoscience and Remote Sensing Symposium*, 2021. (**EI**)  
+
 ## Patents and Copyrights
-[4] Software for temporal–spatial–spectral–angular feature extraction and deep fusion, version 1.0 (“时-空-谱-角”特征提取与深度融合软件V1.0), 2026.  
+[4] Self-supervised learning of deep network models and land use change detection, method and device (深度网络模型自监督训练, 土地利用变化检测方法及装置), 2026.  
+Ke Nie, Guanrui Nie, **Lilin Tu**, Jiayi Li, Xin Huang  
+
+[3] Software for temporal–spatial–spectral–angular feature extraction and deep fusion, version 1.0 (“时-空-谱-角”特征提取与深度融合软件V1.0), 2026.  
 Xin Huang, Beibei Yu, Jiayi Li, **Lilin Tu**  
 
-[3] Self-supervised learning of deep network models and land use change detection, method and device (深度网络模型自监督训练, 土地利用变化检测方法及装置), 2026.  
-Ke Nie, Guanrui Nie, **Lilin Tu**, Jiayi Li, Xin Huang
-
 [2] A rice paddy extraction method based on rice index using multi-temporal remote sensing images (一种基于水稻指数的多时相遥感影像水稻提取方法), 2022.  
-Xin Huang, **Lilin Tu**
+Xin Huang, **Lilin Tu**  
 
 [1] Software for automatic built-up area extraction based on high-resolution remote sensing images, version 1.0 (高分辨率遥感影像居民区自动提取软件V1.0), 2020.  
 Xin Huang, Chun Liu, **Lilin Tu**  
+
 ## Reviewer
 [ISPRS Journal of Photogrammetry and Remote Sensing (**ISPRS-J**)](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing)  
 [IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4358825)
