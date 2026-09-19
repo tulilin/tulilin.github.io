@@ -20,6 +20,10 @@ B.S. of remote sensing science and technology in School of Remote Sensing and In
 
 # Publications  
 ## Journals  
+[10] Toward Accurate, Efficient, and Interpretable Hyperspectral Image Classification: A detachable network with adaptive spectral–spatial scale selection. [[Paper]](https://ieeexplore.ieee.org/document/11698744)  
+**Lilin Tu**, Xin Huang, Jiayi Li, Jianya Gong, Antonio Plaza, Jon Atli Benediktsson  
+*IEEE Geoscience and Remote Sensing Magazine*, 2026. (**SCI Q1 TOP, IF=13.7**)  
+
 [9] A Multi-Source Time-Series Remote Sensing Data Fusion Network for High-Spatial-Resolution Crop Classification. [[Paper]](https://ieeexplore.ieee.org/abstract/document/11481616)  
 Beibei Yu, Xin Huang, Hengmao Xiang, Jie Yang, **Lilin Tu**, Yujuan Zhang, Yinghua Jiao  
 *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2026. (**SCI Q2 TOP, IF=6.3**)  
