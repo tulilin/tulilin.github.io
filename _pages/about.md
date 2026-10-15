@@ -32,7 +32,7 @@ Beibei Yu, Xin Huang, Hengmao Xiang, Jie Yang, **Lilin Tu**, Yujuan Zhang, Yingh
 
 [8] High-resolution local climate zone mapping via deep mixed-scene decomposition of remote sensing imagery. [[Paper]](https://www.sciencedirect.com/science/article/pii/S1569843225006466)  
 Jiayi Li, Xinji Tian, Wenrui Wang, **Lilin Tu**, Yang Lu, Jie Jiang, Xin Huang  
-*International Journal of Applied Earth Observations and Geoinformation*, 2025. (**SCI Q1 TOP, IF=8.2**)  
+*International Journal of Applied Earth Observation and Geoinformation*, 2025. (**SCI Q1 TOP, IF=8.2**)  
 
 [7] Forest Tree Species Classification Based on Deep Ensemble Learning by Fusing High-Resolution, Multitemporal, and Hyperspectral Multisource Remote Sensing Data. [[Paper]](https://ieeexplore.ieee.org/abstract/document/11260461)  
 Dengli Yu, **Lilin Tu\***, Ziqing Wei, Fuyao Zhu, Chengjun Yu, Denghong Wang, Jiayi Li, Xin Huang\*  
@@ -48,7 +48,7 @@ Dengli Yu, **Lilin Tu\***, Ziqing Wei, Fuyao Zhu, Chengjun Yu, Denghong Wang, Ji
 
 [4] WHU-OHS: A benchmark dataset for large-scale hersepctral image classification. [[Paper]](https://www.sciencedirect.com/science/article/pii/S1569843222002102)[[Code]](https://github.com/zjjerica/WHU-OHS-Pytorch)  
 Jiayi Li, Xin Huang, **Lilin Tu**  
-*International Journal of Applied Earth Observations and Geoinformation*, 2022. (**SCI Q1 TOP, IF=8.2**)  
+*International Journal of Applied Earth Observation and Geoinformation*, 2022. (**SCI Q1 TOP, IF=8.2**)  
 
 [3] A review of building detection from very high resolution optical remote sensing images. [[Paper]](https://www.tandfonline.com/doi/full/10.1080/15481603.2022.2101727)  
 Jiayi Li, Xin Huang, **Lilin Tu**, Tao Zhang, Leiguang Wang  
